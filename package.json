@@ -1,0 +1,15 @@
+{
+  "name": "connect-webapi",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piotr Mionskowski",
+  "license": "BSD",
+  "dependencies": {
+    "connect-owin": "git://github.com/bbaia/connect-owin.git",
+    "express": "~3.4.4"
+  }
+}
